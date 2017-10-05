@@ -1,6 +1,7 @@
 package vn.com.ndthanh;
 
 //test branch
+//test branch 1
 public class MyLinkedList {
     private Node first;
     private Node tail;
